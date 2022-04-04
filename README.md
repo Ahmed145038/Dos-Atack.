@@ -1,8 +1,6 @@
 # Dos-Atack.
 # orders
 
-<pre>
-
 [+] git clone https://github.com/Ahmed145038/Dos-Atack./edit/main/README.md
 
 [+] cd Dos-Atack.
